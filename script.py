@@ -4,9 +4,7 @@ Read data file
 
 Run analysis
 
-Save table
+Save table 
 
-Make header bold 
-
-Save small figure, red line 
+Save small figure, green line 
 
